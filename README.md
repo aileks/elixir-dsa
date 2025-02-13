@@ -2,7 +2,11 @@
 
 This is a work-in-progress collection of basic data structure and algorithm problems in Elixir, designed for me to assist with my progress in Elixir.
 
-## TODO
+## WIP
+
+This repo is a work-in-progress! Currently, only very basic problems have been added to get things started.
+
+### TODO
 - [ ] Linked lists
 - [ ] Stacks & queues
 - [ ] Sorting
