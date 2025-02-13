@@ -5,10 +5,14 @@ This is a work-in-progress collection of basic data structure and algorithm prob
 ## Getting Started
 
 1. Clone the repository
-
 ```bash
 git clone https://github.com/aileks/elixir-dsa.git
 ```
 
-2. Run tests: `mix test`
+2. Run tests
 
+```bash
+mix test
+```
+
+3. Edit the files in `lib` to pass tests!
