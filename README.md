@@ -1,6 +1,6 @@
 # Elixir DS&A
 
-This is a work-in-progress collection of basic data structure and algorithm problems in Elixir, designed for me to track my progress.
+This is a work-in-progress collection of basic data structure and algorithm problems in Elixir, designed for me to assist with my progress in Elixir.
 
 ## Getting Started
 
@@ -10,6 +10,5 @@ This is a work-in-progress collection of basic data structure and algorithm prob
 git clone https://github.com/aileks/elixir-dsa.git
 ```
 
-2. Install dependencies: `mix deps.get`
-3. Run tests: `mix test`
+2. Run tests: `mix test`
 
