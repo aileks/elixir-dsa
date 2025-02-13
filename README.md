@@ -6,7 +6,7 @@ This is a work-in-progress collection of basic data structure and algorithm prob
 
 This repo is a work-in-progress! Currently, only very basic problems have been added to get things started.
 
-### TODO
+### To-do:
 - [ ] Linked lists
 - [ ] Stacks & queues
 - [ ] Sorting
