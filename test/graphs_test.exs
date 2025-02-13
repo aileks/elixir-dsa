@@ -1,4 +1,4 @@
-defmodule GraphProblemsTest do
+defmodule GraphTest do
   use ExUnit.Case
 
   test "graph path checks" do

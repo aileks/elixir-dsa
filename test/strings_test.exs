@@ -1,4 +1,4 @@
-defmodule StringProblemsTest do
+defmodule StringTest do
   use ExUnit.Case
 
   test "palindrome checks" do

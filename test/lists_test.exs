@@ -1,4 +1,4 @@
-defmodule ListProblemsTest do
+defmodule ListTest do
   use ExUnit.Case
 
   test "sum of even numbers" do

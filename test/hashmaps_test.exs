@@ -1,4 +1,4 @@
-defmodule MapProblemsTest do
+defmodule HashMapsTest do
   use ExUnit.Case
 
   test "word frequency counts" do
