@@ -15,6 +15,7 @@ This repo is a work-in-progress! Currently, only very basic problems have been a
 - [ ] Heaps
 - [ ] Bit manipulation
 - [ ] Tries
+- [ ] Backtracking
 
 ## Getting Started
 
